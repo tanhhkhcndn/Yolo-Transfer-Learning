@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: G:\\Code4Paper\\2023\\Yolo-Transfer-Learning\\Dataset\\hamster\\train\\images
+val: G:\\Code4Paper\\2023\\Yolo-Transfer-Learning\\Dataset\\hamster\\valid\\images
+test: G:\\Code4Paper\\2023\\Yolo-Transfer-Learning\\Dataset\hamster\\test\\images
 
 nc: 1
 names: ['hamster']
